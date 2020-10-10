@@ -1,0 +1,10 @@
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital-signature.csprojAssemblyReference.cache
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital_signature.Form1.resources
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital_signature.Properties.Resources.resources
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital-signature.csproj.GenerateResource.cache
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital-signature.csproj.CoreCompileInputs.cache
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\bin\Debug\digital-signature.exe.config
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\bin\Debug\digital-signature.exe
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\bin\Debug\digital-signature.pdb
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital-signature.exe
+C:\Users\KPACHOB\source\repos\digital-signature\digital-signature\obj\Debug\digital-signature.pdb

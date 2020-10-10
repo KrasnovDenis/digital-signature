@@ -36,13 +36,14 @@
             this.status = new System.Windows.Forms.Label();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.sign = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // richTextBox1
             // 
             this.richTextBox1.Location = new System.Drawing.Point(10, 11);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(362, 116);
+            this.richTextBox1.Size = new System.Drawing.Size(362, 63);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
             // 
@@ -99,11 +100,19 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // sign
+            // 
+            this.sign.Location = new System.Drawing.Point(10, 95);
+            this.sign.Name = "sign";
+            this.sign.Size = new System.Drawing.Size(362, 20);
+            this.sign.TabIndex = 6;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(386, 252);
+            this.Controls.Add(this.sign);
             this.Controls.Add(this.status);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.load);
@@ -127,6 +136,7 @@
         private System.Windows.Forms.Label status;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.TextBox sign;
     }
 }
 
